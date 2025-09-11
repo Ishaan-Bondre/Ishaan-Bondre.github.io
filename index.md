@@ -2,7 +2,8 @@
 
 ---
 ##**Research**
-[Project 2 Title](https://docs.google.com/document/d/1TGkEDdR38WnE1umPsYOE86UNF2V1UFHXDQk76fmFedE/edit?usp=sharing)
+
+[Predicting stock prices using linear and non linear machine learning models](https://docs.google.com/document/d/1TGkEDdR38WnE1umPsYOE86UNF2V1UFHXDQk76fmFedE/edit?usp=sharing)
 
 
 ### Hackathons
