@@ -13,7 +13,7 @@ FinGrow (Financial literacy website which makes learning about good financial ha
 
 ### Projects
 [Gyel Capstone project: Inequality in the Global Economy: The African Experience]([/pdf/sample_presentation.pdf](https://lwsd-my.sharepoint.com/:p:/g/personal/1054079_lwsd_org/EVrRB_yI1R1Hmbd_eM8Lx00BGXb4HBHryo2gcn46DlLM5g?e=2mvm4y))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
