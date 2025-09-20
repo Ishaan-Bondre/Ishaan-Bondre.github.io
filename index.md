@@ -16,9 +16,11 @@ FinGrow (Financial literacy website which makes learning about good financial ha
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Helping Hands Pitch deck](https://lwsd-my.sharepoint.com/:p:/g/personal/1054079_lwsd_org/EUB2zrKLMFVHpeqtyvnMyPUBBxLBJu1SrsNG46E8mCgRjQ?e=QTDDu4)
 
+[FuturePath Pitch deck](https://www.canva.com/design/DAGlbgrc0uQ/-20HvHyP4zD6MhNG64cpDg/edit?utm_content=DAGlbgrc0uQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[CuriosMindsandMore podcast](https://www.youtube.com/channel/UCEOP-2IPCDmCNWwwoc06nHA)
 ---
 
 ### Category Name 2
